@@ -1,4 +1,4 @@
-<h1 style="text-decoration: underline">Python Programming Repositry</h1>
+<h1 style="text-decoration: underline; text-underline-offset: 2px; ">Python Programming Repositry</h1>
 
 <ol>
   <li>main.py (Hello World)</li>
