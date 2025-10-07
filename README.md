@@ -3,4 +3,5 @@
 <ol>
   <li>main.py (Hello World)</li>
   <li>Numerical_Operator.py</li>
+  <li>Strings.py</li>
 </ol>
